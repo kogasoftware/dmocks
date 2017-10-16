@@ -1,0 +1,5 @@
+static
+config.yml
+vendor
+dist
+releases

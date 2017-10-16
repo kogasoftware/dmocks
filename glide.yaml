@@ -1,0 +1,3 @@
+package: dmocks
+import:
+- package: gopkg.in/yaml.v2
