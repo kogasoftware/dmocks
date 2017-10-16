@@ -1,5 +1,7 @@
 # dmocks
 
+[![Build Status](https://travis-ci.org/kogasoftware/dmocks.svg?branch=master)](https://travis-ci.org/kogasoftware/dmocks)
+
 Dynamic mock server
 
 ## Usage
