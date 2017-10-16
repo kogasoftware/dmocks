@@ -1,7 +1,6 @@
 # dmocks
 
 [![Build Status](https://travis-ci.org/kogasoftware/dmocks.svg?branch=master)](https://travis-ci.org/kogasoftware/dmocks)
-
 [![GoDoc](https://godoc.org/github.com/kogasoftware/dmocks?status.svg)](https://godoc.org/github.com/kogasoftware/dmocks)
 
 Dynamic mock server
